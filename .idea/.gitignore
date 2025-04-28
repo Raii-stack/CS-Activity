@@ -1,3 +1,27 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Ignore everything
+*
+*/
+*.*
+
+# Don't ignore src directory and specific java files
+!src/
+!src/fileHandling/
+!src/fileHandling/File.java
+
+# Don't ignore txt files
+!*.txt
+
+# Still ignore these specific files even if they match above patterns
+.DS_Store
+Thumbs.db
+*.class
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+.settings/
+.classpath
+.project
