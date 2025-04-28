@@ -1,0 +1,25 @@
+---Student Average Grades---
+Marcus Laurence
+	Average Grade: 91.25
+Jame Bond
+	Average Grade: 87.75
+Bea Bunda
+	Average Grade: 78.5
+Pops Fernandez
+	Average Grade: 78.75
+Sue Ramirez
+	Average Grade: 85.5
+
+---Subject Average Grades
+Logic: Ave Grade: 84.2
+Data Structure: Ave Grade: 81.2
+English: Ave Grade: 85.4
+Programming: Ave Grade: 86.6
+
+---Highest Performing Student---
+Highest Performing Student: Marcus Laurence
+Average Grade: 91.25
+
+---Highest Performing Subject---
+Highest Performing Subject: Programming
+Highest Grade: 86.6
